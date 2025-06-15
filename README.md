@@ -1,5 +1,7 @@
 # ADS1115_WE
 
+> Modified version to support only esp-idf
+
 An Arduino library for the 16-bit, 4-channel ADS1115 and the 12-Bit, 4-channel ADS1015 ADC with gain and alert functions. 
 
 I have have tried to optimize the library for convenience to use. If you try the examples I recommend to start with `Single_Shot.ino`.
